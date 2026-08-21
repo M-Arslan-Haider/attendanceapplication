@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter --version)",
+      "Bash(dart --version)",
+      "Bash(timeout 180 flutter pub add google_fonts)"
+    ]
+  }
+}
